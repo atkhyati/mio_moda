@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "327555309265",
+    "project_id": "avoir-chic",
+    "storage_bucket": "avoir-chic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327555309265:android:0aefaa94a09734ff2eaff0",
+        "android_client_info": {
+          "package_name": "com.app.avoirchic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327555309265-haol2ctqpuih63rl5tm19qrdjugfcff2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.avoirchic",
+            "certificate_hash": "e50299b669c737b3c6258f37dc810405c76d9f98"
+          }
+        },
+        {
+          "client_id": "327555309265-p2619far1he8p001aobp6t6kmsobpc92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.avoirchic",
+            "certificate_hash": "45ec1ac495777fe2b7bc8c4e76214a1a0cd475c4"
+          }
+        },
+        {
+          "client_id": "327555309265-to0r3m7rddun8v2mbd04h9b89jdmrlsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7brD33bZdp_OdbfrUeH1BWkzMXKtqn9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327555309265-to0r3m7rddun8v2mbd04h9b89jdmrlsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327555309265-i8o8ugtpk7m8pfb0ejjhg9bnjfjkof5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.avoirchic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
